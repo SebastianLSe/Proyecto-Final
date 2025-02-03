@@ -44,6 +44,10 @@ public class Producto {
         }
         return false;
     }
+    
+    public void hola(){
+        
+    }
 
     // Sobrescribir el método toString para que el Producto se muestre correctamente
     @Override
